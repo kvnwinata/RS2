@@ -1,0 +1,6 @@
+NumBlocksPerCursor: 3
+NumAmplitudes(num,value,value,...): 3 200 350 500 
+NumDensities(num,value,value,...): 2 0.5 1
+NumRatios(num,value,value,...): 2 1.5 2.5
+NumWidths(num,value,value,...): 2 32 48
+USER_ID: 1
